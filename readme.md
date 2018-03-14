@@ -1,4 +1,4 @@
-# Wordrpess REST API
+# Wordrpess REST API 
 ## Initialisation du projet
 * BLA
 * BLI
